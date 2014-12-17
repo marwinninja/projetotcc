@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<level width="800" height="480">  
+    <entity x="1" y="2" type="tile1"/>
+    <entity x="1" y="3" type="tile1"/>
+    <entity x="1" y="4" type="tile1"/>
+    <entity x="2" y="1" type="tile1"/>
+    <entity x="2" y="5" type="tile1"/>
+    <entity x="3" y="1" type="tile1"/>
+    <entity x="3" y="3" type="tile1"/>
+    <entity x="3" y="4" type="tile1"/>
+    <entity x="3" y="5" type="tile1"/>
+    <entity x="4" y="2" type="tile1"/>
+    <entity x="4" y="4" type="tile1"/>
+    <entity x="5" y="1" type="tile1"/>
+    <entity x="5" y="2" type="tile1"/>
+    <entity x="5" y="3" type="tile1"/>
+    <entity x="5" y="4" type="tile1"/>
+    <entity x="6" y="3" type="tile1"/>
+    <entity x="6" y="5" type="tile1"/>
+    <entity x="7" y="1" type="tile1"/>    
+    <entity x="7" y="3" type="tile1"/>
+    <entity x="7" y="4" type="tile1"/>
+    <entity x="7" y="5" type="tile1"/>
+    <entity x="1" y="1" type="tile3"/>
+    <entity x="2" y="2" type="tile2"/>
+    <entity x="2" y="4" type="tile3"/>
+    <entity x="4" y="1" type="tile2"/>
+    <entity x="4" y="3" type="tile3"/>    
+    <entity x="4" y="5" type="tile2"/>
+    <entity x="5" y="5" type="tile3"/>
+    <entity x="6" y="1" type="tile2"/>
+    <entity x="6" y="2" type="tile3"/>
+    <entity x="6" y="4" type="tile2"/>
+    <entity x="7" y="2" type="tile3"/>
+    <entity x="1" y="5" type="tile4"/>
+    <entity x="3" y="2" type="tile4"/> 
+    <entity x="2" y="3" type="torneira"/>
+    <entity x="6" y="5" type="player"/>  
+</level>
